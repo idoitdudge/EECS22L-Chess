@@ -14,3 +14,4 @@ Date: 05/31/21
 This is the second version of the Panda Chess software. 
 To run our game, simply follow the instructions in our INSTALL file. 
 General instructions and rules of the game are stated in the user manual. 
+Download the zip file to get access to source files!
