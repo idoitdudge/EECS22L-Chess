@@ -4,7 +4,7 @@ Welcome to Panda Chess!
 Authors: Team Panda-emic Programmers  
 1. Onis Tripathi 
 2. Christina Wong 
-3. Chi-Yuan (George) Ting
+3. Chih-Yuan (George) Ting
 4. Gianna Calderon Fortu 
 5. Michael Choi 
 
